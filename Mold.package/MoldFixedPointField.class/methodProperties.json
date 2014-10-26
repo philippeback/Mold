@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"disinfect:" : "kdt 5/18/2009 15:33",
+		"infect:" : "kdt 8/28/2008 09:52",
+		"initialize" : "",
+		"scale" : "",
+		"scale:" : "",
+		"scaledDecimalFromString:" : "kdt 7/16/2009 17:36",
+		"validateConditions" : "kdt 7/16/2009 17:51",
+		"widgetOn:" : "" } }

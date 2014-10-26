@@ -1,0 +1,15 @@
+{
+	"category" : "Mold-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/26/2014 19:56",
+	"instvars" : [
+		"mold",
+		"format" ],
+	"name" : "MoldExampleForm",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

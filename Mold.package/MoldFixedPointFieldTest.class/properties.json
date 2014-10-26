@@ -1,0 +1,14 @@
+{
+	"category" : "Mold-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"field" ],
+	"name" : "MoldFixedPointFieldTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "PhilippeBack 10/26/2014 20:17",
+		"testDefaultFormat" : "KenTreis 8/9/2010 22:37",
+		"testDisinfectISO" : "KenTreis 8/25/2010 10:05",
+		"testDisinfectUK" : "KenTreis 8/25/2010 10:05",
+		"testDisinfectUS" : "KenTreis 8/9/2010 22:03",
+		"testInfectISO" : "KenTreis 8/9/2010 22:02",
+		"testInfectUK" : "KenTreis 8/9/2010 18:56",
+		"testInfectUS" : "KenTreis 8/9/2010 22:04",
+		"testValidateInput" : "AnthonyKaufman 8/10/2010 15:25",
+		"testValidationOnDate" : "KenTreis 8/24/2010 09:09" } }

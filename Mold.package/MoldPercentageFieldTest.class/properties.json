@@ -1,0 +1,14 @@
+{
+	"category" : "Mold-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"field" ],
+	"name" : "MoldPercentageFieldTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

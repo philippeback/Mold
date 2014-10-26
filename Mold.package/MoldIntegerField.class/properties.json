@@ -1,0 +1,14 @@
+{
+	"category" : "Mold-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MoldIntegerField",
+	"pools" : [
+		 ],
+	"super" : "MoldField",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+A field is a basic unit of Form I/O. It can render an input widget on an HTML canvas, validates input from the user, and generates a bona-fide object of the appropriate type.

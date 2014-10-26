@@ -1,0 +1,3 @@
+private
+requirementCondition
+	^ conditions first

@@ -1,0 +1,15 @@
+{
+	"category" : "Mold-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kdt 8/26/2008 22:16",
+	"instvars" : [
+		"fields",
+		"html" ],
+	"name" : "Mold",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

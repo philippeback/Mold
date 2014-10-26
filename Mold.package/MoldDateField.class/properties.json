@@ -1,0 +1,14 @@
+{
+	"category" : "Mold-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"format" ],
+	"name" : "MoldDateField",
+	"pools" : [
+		 ],
+	"super" : "MoldField",
+	"type" : "normal" }

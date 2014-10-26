@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"canBeRoot" : "",
+		"initialize" : "PhilippeBack 10/26/2014 19:55" },
+	"instance" : {
+		"buildMold" : "kdt 8/26/2008 21:58",
+		"initialize" : "",
+		"renderContentOn:" : "kdt 8/26/2008 21:13",
+		"renderCustomOn:" : "kdt 8/27/2008 08:35",
+		"renderFormatChoicesOn:" : "",
+		"style" : "kdt 8/27/2008 08:37" } }
